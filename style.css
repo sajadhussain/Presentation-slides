@@ -74,7 +74,7 @@ body{
 
 #page-1 p{
     transform: translateX(-120000px);
-    animation: paragraph var(--animate-speed) forwards ease-out;
+    animation: paragraph var(--animate-speed) forwards ease-out 2s;
 }
 @keyframes paragraph{
     to{
